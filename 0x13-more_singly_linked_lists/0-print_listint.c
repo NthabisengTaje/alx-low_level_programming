@@ -1,9 +1,4 @@
-/*
- * File: 0-print_listint.c
- * Auth: Nthabiseng Taje
-*/
-
- #include "lists.h"
+#include "lists.h"
 #include <stdio.h>
 
 /**
